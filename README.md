@@ -13,3 +13,5 @@ This website is currently:
 ~~* TODO: Blurb and photo formatted for the 'about' page.~~
 
 It can be visited at https://jovisidhu.dev 
+
+The images used on the site, such as any concept logos are copyrighted and may not be used for personal or private use.
